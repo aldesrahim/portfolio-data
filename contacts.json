@@ -1,6 +1,8 @@
 {
     "title": "Contacts",
-    "description": "Hey, feel free to contact me if you have any further questions. And thank you for visiting my personal website.",
+    "paragraphs": [
+        "Hey, feel free to contact me if you have any further questions. And thank you for visiting my personal website."
+    ],
     "contacts": [
         {
             "href": "mailto:aldesrahim@gmail.com",
