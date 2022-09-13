@@ -1,0 +1,18 @@
+{
+    "title": "Contacts",
+    "description": "Hey, feel free to contact me if you have any further questions. And thank you for visiting my personal website.",
+    "contacts": [
+        {
+            "href": "mailto:aldesrahim@gmail.com",
+            "title": "Email"
+        },
+        {
+            "href": "https://wa.me/6283893962489",
+            "title": "WhatsApp"
+        }
+    ],
+    "cv": {
+        "href": "assets/files/CV-AHMAD-AL-DESRAHIM.pdf",
+        "title": "Curriculum Vitae"
+    }
+}
