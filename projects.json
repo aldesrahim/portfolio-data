@@ -1,0 +1,216 @@
+{
+  "title": "Projects",
+  "paragraphs": [
+    "These are list of what I've been working on, these are from my work or personal projects."
+  ],
+  "projects": [
+    {
+      "id": "activity-scheduler",
+      "title": "Activity Scheduler",
+      "description": "My first side project, built with Laravel and Metronic Admin Panel.",
+      "paragraphs": [
+        "Around 2020, my coworker asked me if I could build a web application for his friend at clinic, he said his friend just need a simple activity scheduler.\nSince I've never work on a side project before, I said yes and hoping I would be able to learn something new.",
+        "So, what this application does is like a task list for activities, if they've done it, then mark as done, otherwise mark as not done and provide a reason why.\nIt was a fun project because if I remember it correctly, at the time I was using Livewire and learned so much about it."
+      ],
+      "tags": [
+        "PHP",
+        "Laravel"
+      ],
+      "gallery": [
+        {
+          "src": "assets/images/projects/activity-scheduler/1.png",
+          "alt": "dashboard",
+          "caption": {
+            "title": "Dashboard",
+            "description": "Show summaries and activities"
+          }
+        },
+        {
+          "src": "assets/images/projects/activity-scheduler/2.png",
+          "alt": "department",
+          "caption": {
+            "title": "Department",
+            "description": "To manage departments"
+          }
+        },
+        {
+          "src": "assets/images/projects/activity-scheduler/3.png",
+          "alt": "activities",
+          "caption": {
+            "title": "Activities",
+            "description": "To manage activities"
+          }
+        },
+        {
+          "src": "assets/images/projects/activity-scheduler/4.0.png",
+          "alt": "activity-detail",
+          "caption": {
+            "title": "Activity Detail",
+            "description": "To set the activity date and time"
+          }
+        },
+        {
+          "src": "assets/images/projects/activity-scheduler/4.1.png",
+          "alt": "activity-detail-add-form",
+          "caption": {
+            "title": "Add Activity Detail",
+            "description": "To create new activity's detail"
+          }
+        },
+        {
+          "src": "assets/images/projects/activity-scheduler/5.0.png",
+          "alt": "activities-checklist",
+          "caption": {
+            "title": "Activities Checklist",
+            "description": "To mark the activity whether it's done or not"
+          }
+        },
+        {
+          "src": "assets/images/projects/activity-scheduler/5.1.png",
+          "alt": "activity-checklist-not-done-form",
+          "caption": {
+            "title": "Activity When It's Not Done",
+            "description": "Form to input the reasons why the activity is not done yet"
+          }
+        },
+        {
+          "src": "assets/images/projects/activity-scheduler/6.png",
+          "alt": "activities-report",
+          "caption": {
+            "title": "Activities Report",
+            "description": "Show activities and export the list"
+          }
+        },
+        {
+          "src": "assets/images/projects/activity-scheduler/7.png",
+          "alt": "users-list",
+          "caption": {
+            "title": "Users Lists",
+            "description": "Show the users"
+          }
+        },
+        {
+          "src": "assets/images/projects/activity-scheduler/8.png",
+          "alt": "current-user",
+          "caption": {
+            "title": "Current User",
+            "description": "To change current user's name and password"
+          }
+        }
+      ]
+    },
+    {
+      "id": "facility-reservation",
+      "title": "Facility Reservation",
+      "description": "It was my first project using Laravel (it is actually two applications at once, the other one is Asset Management).",
+      "paragraphs": [
+        "I remembered when I first get a task to build a Facility Reservation for Purwakarta District Goverment (from work, we are application's vendor), It was my first time discovered Livewire and I was very excited to try it.",
+        "This also the time when Laravel 8 first released and introduced blade-component (I think) and I was super excited of these new technologies, so I build this with a struggle (because I never really tried Laravel on a real projects before just for learning purposes).",
+        "It was not my proudest project I've ever been working on because I never really use or understand blade-component and it makes my code messy and there was so much repetition for an element (see the images for context).\nBut this project make me want to use Laravel even more, to learn and really try to understand it correctly by implementing best practices, etc."
+      ],
+      "tags": ["PHP", "Laravel"],
+      "gallery": [
+        {
+          "src": "assets/images/projects/facility-reservation/1.png",
+          "alt": "dashboard",
+          "caption": {
+            "title": "Dashboard",
+            "description": "Show reservations by chosen date on the calendar and more"
+          }
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/2.0.png",
+          "alt": "make-reservation",
+          "caption": {
+            "title": "Make Reservation List",
+            "description": "Show reservations by chosen date on the calendar and more"
+          }
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/2.1.png",
+          "alt": "facility-list",
+          "caption": {
+            "title": "Make Reservation Form",
+            "description": "Show reservations by chosen date on the calendar and more"
+          }
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/3.0.png",
+          "alt": "another-facilities-list",
+          "caption": {
+            "title": "Another Facilities List",
+            "description": "Show reservations by chosen date on the calendar and more"
+          }
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/3.1.png",
+          "alt": "another-make-reservation",
+          "caption": {
+            "title": "Another Make Reservation Form",
+            "description": "Show reservations by chosen date on the calendar and more"
+          }
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/4.0.png",
+          "alt": "reservations-list",
+          "caption": {
+            "title": "Reservations",
+            "description": "Show reservations by chosen date on the calendar and more"
+          }
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/4.1.png",
+          "alt": "reservations-detail",
+          "caption": {
+            "title": "Reservation's detail",
+            "description": "Show reservations by chosen date on the calendar and more"
+          }
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/5.png",
+          "alt": "reservations-calendar",
+          "caption": {
+            "title": "Calendar",
+            "description": "Show reservations by chosen date on the calendar and more"
+          }
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/6.png",
+          "alt": "reservations-approval",
+          "caption": {
+            "title": "Reservation Approval",
+            "description": "To approve reservations"
+          }
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/7.0.png",
+          "alt": "manage-facilities-table"
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/7.1.png",
+          "alt": "manage-facilities-grid"
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/8.png",
+          "alt": "facility-form"
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/9.png",
+          "alt": "facility-additional-info-1"
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/10.png",
+          "alt": "facility-additional-info-2"
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/11.png",
+          "alt": "reservations-report"
+        },
+        {
+          "src": "assets/images/projects/facility-reservation/12.png",
+          "alt": "users"
+        }
+      ]
+    }
+  ]
+}
