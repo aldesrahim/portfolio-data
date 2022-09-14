@@ -21,55 +21,49 @@
           "src": "assets/images/projects/activity-scheduler/1.png",
           "alt": "dashboard",
           "caption": {
-            "title": "Dashboard",
-            "description": "Show summaries and activities"
+            "title": "Dashboard"
           }
         },
         {
           "src": "assets/images/projects/activity-scheduler/2.png",
-          "alt": "department",
+          "alt": "department-management",
           "caption": {
-            "title": "Department",
-            "description": "To manage departments"
+            "title": "Department management"
           }
         },
         {
           "src": "assets/images/projects/activity-scheduler/3.png",
-          "alt": "activities",
+          "alt": "activities-management",
           "caption": {
-            "title": "Activities",
-            "description": "To manage activities"
+            "title": "Activities management"
           }
         },
         {
           "src": "assets/images/projects/activity-scheduler/4.0.png",
           "alt": "activity-detail",
           "caption": {
-            "title": "Activity Detail",
-            "description": "To set the activity date and time"
+            "title": "Activity detail management"
           }
         },
         {
           "src": "assets/images/projects/activity-scheduler/4.1.png",
-          "alt": "activity-detail-add-form",
+          "alt": "add-activity-detail-form",
           "caption": {
-            "title": "Add Activity Detail",
-            "description": "To create new activity's detail"
+            "title": "Add activity detail's form"
           }
         },
         {
           "src": "assets/images/projects/activity-scheduler/5.0.png",
           "alt": "activities-checklist",
           "caption": {
-            "title": "Activities Checklist",
-            "description": "To mark the activity whether it's done or not"
+            "title": "Activities checklist"
           }
         },
         {
           "src": "assets/images/projects/activity-scheduler/5.1.png",
           "alt": "activity-checklist-not-done-form",
           "caption": {
-            "title": "Activity When It's Not Done",
+            "title": "Activity when it's not done",
             "description": "Form to input the reasons why the activity is not done yet"
           }
         },
@@ -77,24 +71,21 @@
           "src": "assets/images/projects/activity-scheduler/6.png",
           "alt": "activities-report",
           "caption": {
-            "title": "Activities Report",
-            "description": "Show activities and export the list"
+            "title": "Activities report"
           }
         },
         {
           "src": "assets/images/projects/activity-scheduler/7.png",
-          "alt": "users-list",
+          "alt": "users-management",
           "caption": {
-            "title": "Users Lists",
-            "description": "Show the users"
+            "title": "Users management"
           }
         },
         {
           "src": "assets/images/projects/activity-scheduler/8.png",
-          "alt": "current-user",
+          "alt": "profile",
           "caption": {
-            "title": "Current User",
-            "description": "To change current user's name and password"
+            "title": "Current user profile"
           }
         }
       ]
@@ -104,11 +95,15 @@
       "title": "Facility Reservation",
       "description": "It was my first project using Laravel (it is actually two applications at once, the other one is Asset Management).",
       "paragraphs": [
-        "I remembered when I first get a task to build a Facility Reservation for Purwakarta District Goverment (from work, we are application's vendor), It was my first time discovered Livewire and I was very excited to try it.",
-        "This also the time when Laravel 8 first released and introduced blade-component (I think) and I was super excited of these new technologies, so I build this with a struggle (because I never really tried Laravel on a real projects before just for learning purposes).",
-        "It was not my proudest project I've ever been working on because I never really use or understand blade-component and it makes my code messy and there was so much repetition for an element (see the images for context).\nBut this project make me want to use Laravel even more, to learn and really try to understand it correctly by implementing best practices, etc."
+        "I remembered when I first get a task to build a Facility Reservation for Purwakarta District Government (from work, we are application's vendor), It was my first time discovered Livewire and I was very excited to try it.",
+        "This also the time when Laravel 8 first released and introduced blade-component (I think) and I was super excited of these new technologies, so I built this with a struggle (because I never really tried Laravel on a real projects before just for learning purposes).",
+        "It was not my proudest project I've ever been working on because I never really use or understand blade-component and it makes my code messy and there was so much repetition for an element (see the images for context).\nBut this project make me want to use Laravel even more, to learn and really try to understand it correctly by implementing best practices, etc.",
+        "In purwakarta district government area, there are so much buildings and rooms in each of them, they used to write who's going to use the buildings or rooms on the whiteboard, for example, if the governor want to use \"A\" Building or \"B\" Hall, they (administration) write the date and time on the whiteboard, this app is a digitalized version of what they've used to do."
       ],
-      "tags": ["PHP", "Laravel"],
+      "tags": [
+        "PHP",
+        "Laravel"
+      ],
       "gallery": [
         {
           "src": "assets/images/projects/facility-reservation/1.png",
@@ -120,95 +115,362 @@
         },
         {
           "src": "assets/images/projects/facility-reservation/2.0.png",
-          "alt": "make-reservation",
+          "alt": "reservation-form",
           "caption": {
-            "title": "Make Reservation List",
-            "description": "Show reservations by chosen date on the calendar and more"
+            "title": "Reservation form"
           }
         },
         {
           "src": "assets/images/projects/facility-reservation/2.1.png",
           "alt": "facility-list",
           "caption": {
-            "title": "Make Reservation Form",
-            "description": "Show reservations by chosen date on the calendar and more"
+            "title": "Facility list",
+            "description": "Shows facilities for user to choose"
           }
         },
         {
           "src": "assets/images/projects/facility-reservation/3.0.png",
           "alt": "another-facilities-list",
           "caption": {
-            "title": "Another Facilities List",
-            "description": "Show reservations by chosen date on the calendar and more"
+            "title": "Another facilities list",
+            "description": "Shows facilities for user to choose"
           }
         },
         {
           "src": "assets/images/projects/facility-reservation/3.1.png",
-          "alt": "another-make-reservation",
+          "alt": "another-reservation-form",
           "caption": {
-            "title": "Another Make Reservation Form",
-            "description": "Show reservations by chosen date on the calendar and more"
+            "title": "Another reservation form"
           }
         },
         {
           "src": "assets/images/projects/facility-reservation/4.0.png",
-          "alt": "reservations-list",
+          "alt": "reservations",
           "caption": {
-            "title": "Reservations",
-            "description": "Show reservations by chosen date on the calendar and more"
+            "title": "Reservations"
           }
         },
         {
           "src": "assets/images/projects/facility-reservation/4.1.png",
           "alt": "reservations-detail",
           "caption": {
-            "title": "Reservation's detail",
-            "description": "Show reservations by chosen date on the calendar and more"
+            "title": "Reservation's detail"
           }
         },
         {
           "src": "assets/images/projects/facility-reservation/5.png",
           "alt": "reservations-calendar",
           "caption": {
-            "title": "Calendar",
-            "description": "Show reservations by chosen date on the calendar and more"
+            "title": "Reservation calendar"
           }
         },
         {
           "src": "assets/images/projects/facility-reservation/6.png",
           "alt": "reservations-approval",
           "caption": {
-            "title": "Reservation Approval",
-            "description": "To approve reservations"
+            "title": "Reservation approval"
           }
         },
         {
           "src": "assets/images/projects/facility-reservation/7.0.png",
-          "alt": "manage-facilities-table"
+          "alt": "facilities-management-table",
+          "caption": {
+            "title": "Facilities management"
+          }
         },
         {
           "src": "assets/images/projects/facility-reservation/7.1.png",
-          "alt": "manage-facilities-grid"
+          "alt": "facilities-management-grid",
+          "caption": {
+            "title": "Facilities management (grid view)"
+          }
         },
         {
           "src": "assets/images/projects/facility-reservation/8.png",
-          "alt": "facility-form"
+          "alt": "add-facility-form",
+          "caption": {
+            "title": "Add facility's form"
+          }
         },
         {
           "src": "assets/images/projects/facility-reservation/9.png",
-          "alt": "facility-additional-info-1"
+          "alt": "facility-additional-info-1",
+          "caption": {
+            "title": "Facility's additional information 1"
+          }
         },
         {
           "src": "assets/images/projects/facility-reservation/10.png",
-          "alt": "facility-additional-info-2"
+          "alt": "facility-additional-info-2",
+          "caption": {
+            "title": "Facility's additional information 2"
+          }
         },
         {
           "src": "assets/images/projects/facility-reservation/11.png",
-          "alt": "reservations-report"
+          "alt": "reservations-report",
+          "caption": {
+            "title": "Reservations report"
+          }
         },
         {
           "src": "assets/images/projects/facility-reservation/12.png",
-          "alt": "users"
+          "alt": "users-management",
+          "caption": {
+            "title": "Users management"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asset-management",
+      "title": "Asset Management",
+      "description": "One of my first project with Laravel alongside the Facility Reservation app, but I was using <a href=\"https://github.com/rappasoft/laravel-boilerplate\" target=\"_blank\">Laravel Boilerplate</a> instead Livewire.",
+      "paragraphs": [
+        "When I built this app, I wasn't quite sure how to use and implement Laravel best practices, so my first thought was, \"I need a boilerplate\", then I found <a href=\"https://github.com/rappasoft/laravel-boilerplate\" target=\"_blank\">Laravel Boilerplate</a> when I was searching on the internet.",
+        "Without any hesitation I tried this package, it already comes with user management, logs viewer and most importantly, the role and permissions. It was a time saver, I can't even imagine how long will it take me to build those features from the ground, probably it will take me forever, because I am quite new to Laravel back then.",
+        "In purwakarta district government area, there are so much stuff that belongs to the government's assets, they want to keep an eye on those stuff, like chairs, air conditioners, etc. Besides this app, there comes with another Android App that scans RFIDs, we have a special device to scan them. After the devices scanned those RFIDs it send those scanned RFIDs to API and store it inside Database. In this app there is a feature that you can get those stored RFID's and mass assign it to the chosen asset and store it as an additional quantity.",
+        "But after all, it was a fun project to work with, and I learned so much from it."
+      ],
+      "tags": [
+        "PHP",
+        "Laravel"
+      ],
+      "gallery": [
+        {
+          "src": "assets/images/projects/asset-management/1.png",
+          "alt": "dashboard",
+          "captions": {
+            "title": "Dashboard",
+            "description": "Shows asset locations and summaries"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/2.png",
+          "alt": "assets-in-location",
+          "captions": {
+            "title": "Assets in location",
+            "description": "Shows assets and its quantity in location when location is clicked"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/3.png",
+          "alt": "asset-type-management",
+          "captions": {
+            "title": "Asset's type management"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/4.png",
+          "alt": "asset-sub-type-management",
+          "captions": {
+            "title": "Asset's sub-type management"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/5.png",
+          "alt": "asset-location-management",
+          "captions": {
+            "title": "Asset's location management"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/6.png",
+          "alt": "asset-sub-location-management",
+          "captions": {
+            "title": "Asset's sub-location management"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/7.png",
+          "alt": "asset-management",
+          "captions": {
+            "title": "Assets management (master data)"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/8.0.png",
+          "alt": "asset-quantity-management",
+          "captions": {
+            "title": "Asset's quantity management"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/8.1.png",
+          "alt": "add-asset-inventory-form",
+          "captions": {
+            "title": "Add asset inventory's form"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/8.2.png",
+          "alt": "find-the-asset-form",
+          "captions": {
+            "title": "Find the asset form"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/8.3.png",
+          "alt": "when-the-asset-found",
+          "captions": {
+            "title": "When the asset found"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/8.4.png",
+          "alt": "get-asset-inventory-code-from-rfid-scan",
+          "captions": {
+            "title": "Get asset's inventory codes from scanned RFIDs"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/8.5.png",
+          "alt": "generate-asset-inventories-based-on-scanned-rfid",
+          "captions": {
+            "title": "Generate asset inventories based on scanned RFIDs"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/9.png",
+          "alt": "stock-opname",
+          "captions": {
+            "title": "Stock opname"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/10.0.png",
+          "alt": "manage-assets-loaning",
+          "captions": {
+            "title": "Manage assets loaning"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/10.1.png",
+          "alt": "assets-loaning-form",
+          "captions": {
+            "title": "Assets loaning form"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/11.png",
+          "alt": "asset-additions-report",
+          "captions": {
+            "title": "Assets additions report"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/12.png",
+          "alt": "missing-assets-report",
+          "captions": {
+            "title": "Missing assets report"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/13.png",
+          "alt": "assets-loaning-report",
+          "captions": {
+            "title": "Assets loaning report"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/14.0.png",
+          "alt": "users-management",
+          "captions": {
+            "title": "Users management"
+          }
+        },
+        {
+          "src": "assets/images/projects/asset-management/15.0.png",
+          "alt": "roles-management",
+          "captions": {
+            "title": "Roles management"
+          }
+        }
+      ]
+    },
+    {
+      "id": "handovers-and-filing",
+      "title": "Handovers and Filing",
+      "description": "One of my side project, my first time using Laravel jetstream.",
+      "paragraphs": [
+        "What this app does is store all the handovers and mass assign them to the chosen transporter, because my friend is work at the fulfillment providers they need a way to keep awb (airway bill) on the track, it's like mapping the items to the transporter. I almost forgot about filing, it's just an uploaded image of file and store it inside the application so they can see it in case the files or papers are gone.",
+        "This is one of my side project my friend asked me to built, I really never used jetstream before but I really want to try it, I built this application using Laravel jetstream package (livewire) and at first I was really confuse and at the same time I learned how to use blade-component and other stuff correctly."
+      ],
+      "tags": [
+        "PHP",
+        "Laravel"
+      ],
+      "gallery": [
+        {
+          "src": "assets/images/projects/handovers-and-filing/1.PNG",
+          "alt": "login",
+          "captions": {
+            "title": "Login page"
+          }
+        },
+        {
+          "src": "assets/images/projects/handovers-and-filing/2.PNG",
+          "alt": "handovers-management",
+          "captions": {
+            "title": "Handovers management"
+          }
+        },
+        {
+          "src": "assets/images/projects/handovers-and-filing/3.PNG",
+          "alt": "handover-airway-bill",
+          "captions": {
+            "title": "Handover airway bills (awb)"
+          }
+        },
+        {
+          "src": "assets/images/projects/handovers-and-filing/4.PNG",
+          "alt": "handover-actions",
+          "captions": {
+            "title": "Abilities to export handover list"
+          }
+        },
+        {
+          "src": "assets/images/projects/handovers-and-filing/5.PNG",
+          "alt": "add-handover-form",
+          "captions": {
+            "title": "Add handover form",
+            "description": "It comes with transporter management, you can add or delete based on selected transporter"
+          }
+        },
+        {
+          "src": "assets/images/projects/handovers-and-filing/6.PNG",
+          "alt": "add-transporter-form",
+          "captions": {
+            "title": "Add transporter form"
+          }
+        },
+        {
+          "src": "assets/images/projects/handovers-and-filing/7.PNG",
+          "alt": "files-management",
+          "captions": {
+            "title": "Files management"
+          }
+        },
+        {
+          "src": "assets/images/projects/handovers-and-filing/8.PNG",
+          "alt": "users-management",
+          "captions": {
+            "title": "User management"
+          }
+        },
+        {
+          "src": "assets/images/projects/handovers-and-filing/9.PNG",
+          "alt": "add-user-form",
+          "captions": {
+            "title": "Add user form"
+          }
+        },
+        {
+          "src": "assets/images/projects/handovers-and-filing/10.PNG",
+          "alt": "edit-user-form",
+          "captions": {
+            "title": "Edit user form"
+          }
         }
       ]
     }
