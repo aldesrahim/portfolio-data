@@ -18,49 +18,49 @@
       ],
       "gallery": [
         {
-          "src": "assets/images/projects/activity-scheduler/1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/1.png",
           "alt": "dashboard",
           "caption": {
             "title": "Dashboard"
           }
         },
         {
-          "src": "assets/images/projects/activity-scheduler/2.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/2.png",
           "alt": "department-management",
           "caption": {
             "title": "Department management"
           }
         },
         {
-          "src": "assets/images/projects/activity-scheduler/3.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/3.png",
           "alt": "activities-management",
           "caption": {
             "title": "Activities management"
           }
         },
         {
-          "src": "assets/images/projects/activity-scheduler/4.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/4.0.png",
           "alt": "activity-detail",
           "caption": {
             "title": "Activity detail management"
           }
         },
         {
-          "src": "assets/images/projects/activity-scheduler/4.1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/4.1.png",
           "alt": "add-activity-detail-form",
           "caption": {
             "title": "Add activity detail's form"
           }
         },
         {
-          "src": "assets/images/projects/activity-scheduler/5.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/5.0.png",
           "alt": "activities-checklist",
           "caption": {
             "title": "Activities checklist"
           }
         },
         {
-          "src": "assets/images/projects/activity-scheduler/5.1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/5.1.png",
           "alt": "activity-checklist-not-done-form",
           "caption": {
             "title": "Activity when it's not done",
@@ -68,21 +68,21 @@
           }
         },
         {
-          "src": "assets/images/projects/activity-scheduler/6.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/6.png",
           "alt": "activities-report",
           "caption": {
             "title": "Activities report"
           }
         },
         {
-          "src": "assets/images/projects/activity-scheduler/7.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/7.png",
           "alt": "users-management",
           "caption": {
             "title": "Users management"
           }
         },
         {
-          "src": "assets/images/projects/activity-scheduler/8.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/activity-scheduler/8.png",
           "alt": "profile",
           "caption": {
             "title": "Current user profile"
@@ -106,7 +106,7 @@
       ],
       "gallery": [
         {
-          "src": "assets/images/projects/facility-reservation/1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/1.png",
           "alt": "dashboard",
           "caption": {
             "title": "Dashboard",
@@ -114,14 +114,14 @@
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/2.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/2.0.png",
           "alt": "reservation-form",
           "caption": {
             "title": "Reservation form"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/2.1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/2.1.png",
           "alt": "facility-list",
           "caption": {
             "title": "Facility list",
@@ -129,7 +129,7 @@
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/3.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/3.0.png",
           "alt": "another-facilities-list",
           "caption": {
             "title": "Another facilities list",
@@ -137,84 +137,84 @@
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/3.1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/3.1.png",
           "alt": "another-reservation-form",
           "caption": {
             "title": "Another reservation form"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/4.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/4.0.png",
           "alt": "reservations",
           "caption": {
             "title": "Reservations"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/4.1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/4.1.png",
           "alt": "reservations-detail",
           "caption": {
             "title": "Reservation's detail"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/5.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/5.png",
           "alt": "reservations-calendar",
           "caption": {
             "title": "Reservation calendar"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/6.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/6.png",
           "alt": "reservations-approval",
           "caption": {
             "title": "Reservation approval"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/7.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/7.0.png",
           "alt": "facilities-management-table",
           "caption": {
             "title": "Facilities management"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/7.1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/7.1.png",
           "alt": "facilities-management-grid",
           "caption": {
             "title": "Facilities management (grid view)"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/8.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/8.png",
           "alt": "add-facility-form",
           "caption": {
             "title": "Add facility's form"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/9.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/9.png",
           "alt": "facility-additional-info-1",
           "caption": {
             "title": "Facility's additional information 1"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/10.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/10.png",
           "alt": "facility-additional-info-2",
           "caption": {
             "title": "Facility's additional information 2"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/11.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/11.png",
           "alt": "reservations-report",
           "caption": {
             "title": "Reservations report"
           }
         },
         {
-          "src": "assets/images/projects/facility-reservation/12.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/facility-reservation/12.png",
           "alt": "users-management",
           "caption": {
             "title": "Users management"
@@ -238,7 +238,7 @@
       ],
       "gallery": [
         {
-          "src": "assets/images/projects/asset-management/1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/1.png",
           "alt": "dashboard",
           "captions": {
             "title": "Dashboard",
@@ -246,7 +246,7 @@
           }
         },
         {
-          "src": "assets/images/projects/asset-management/2.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/2.png",
           "alt": "assets-in-location",
           "captions": {
             "title": "Assets in location",
@@ -254,133 +254,133 @@
           }
         },
         {
-          "src": "assets/images/projects/asset-management/3.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/3.png",
           "alt": "asset-type-management",
           "captions": {
             "title": "Asset's type management"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/4.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/4.png",
           "alt": "asset-sub-type-management",
           "captions": {
             "title": "Asset's sub-type management"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/5.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/5.png",
           "alt": "asset-location-management",
           "captions": {
             "title": "Asset's location management"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/6.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/6.png",
           "alt": "asset-sub-location-management",
           "captions": {
             "title": "Asset's sub-location management"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/7.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/7.png",
           "alt": "asset-management",
           "captions": {
             "title": "Assets management (master data)"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/8.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.0.png",
           "alt": "asset-quantity-management",
           "captions": {
             "title": "Asset's quantity management"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/8.1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.1.png",
           "alt": "add-asset-inventory-form",
           "captions": {
             "title": "Add asset inventory's form"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/8.2.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.2.png",
           "alt": "find-the-asset-form",
           "captions": {
             "title": "Find the asset form"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/8.3.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.3.png",
           "alt": "when-the-asset-found",
           "captions": {
             "title": "When the asset found"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/8.4.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.4.png",
           "alt": "get-asset-inventory-code-from-rfid-scan",
           "captions": {
             "title": "Get asset's inventory codes from scanned RFIDs"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/8.5.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.5.png",
           "alt": "generate-asset-inventories-based-on-scanned-rfid",
           "captions": {
             "title": "Generate asset inventories based on scanned RFIDs"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/9.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/9.png",
           "alt": "stock-opname",
           "captions": {
             "title": "Stock opname"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/10.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/10.0.png",
           "alt": "manage-assets-loaning",
           "captions": {
             "title": "Manage assets loaning"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/10.1.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/10.1.png",
           "alt": "assets-loaning-form",
           "captions": {
             "title": "Assets loaning form"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/11.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/11.png",
           "alt": "asset-additions-report",
           "captions": {
             "title": "Assets additions report"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/12.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/12.png",
           "alt": "missing-assets-report",
           "captions": {
             "title": "Missing assets report"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/13.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/13.png",
           "alt": "assets-loaning-report",
           "captions": {
             "title": "Assets loaning report"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/14.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/14.0.png",
           "alt": "users-management",
           "captions": {
             "title": "Users management"
           }
         },
         {
-          "src": "assets/images/projects/asset-management/15.0.png",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/15.0.png",
           "alt": "roles-management",
           "captions": {
             "title": "Roles management"
@@ -402,35 +402,35 @@
       ],
       "gallery": [
         {
-          "src": "assets/images/projects/handovers-and-filing/1.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/1.PNG",
           "alt": "login",
           "captions": {
             "title": "Login page"
           }
         },
         {
-          "src": "assets/images/projects/handovers-and-filing/2.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/2.PNG",
           "alt": "handovers-management",
           "captions": {
             "title": "Handovers management"
           }
         },
         {
-          "src": "assets/images/projects/handovers-and-filing/3.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/3.PNG",
           "alt": "handover-airway-bill",
           "captions": {
             "title": "Handover airway bills (awb)"
           }
         },
         {
-          "src": "assets/images/projects/handovers-and-filing/4.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/4.PNG",
           "alt": "handover-actions",
           "captions": {
             "title": "Abilities to export handover list"
           }
         },
         {
-          "src": "assets/images/projects/handovers-and-filing/5.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/5.PNG",
           "alt": "add-handover-form",
           "captions": {
             "title": "Add handover form",
@@ -438,35 +438,35 @@
           }
         },
         {
-          "src": "assets/images/projects/handovers-and-filing/6.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/6.PNG",
           "alt": "add-transporter-form",
           "captions": {
             "title": "Add transporter form"
           }
         },
         {
-          "src": "assets/images/projects/handovers-and-filing/7.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/7.PNG",
           "alt": "files-management",
           "captions": {
             "title": "Files management"
           }
         },
         {
-          "src": "assets/images/projects/handovers-and-filing/8.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/8.PNG",
           "alt": "users-management",
           "captions": {
             "title": "User management"
           }
         },
         {
-          "src": "assets/images/projects/handovers-and-filing/9.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/9.PNG",
           "alt": "add-user-form",
           "captions": {
             "title": "Add user form"
           }
         },
         {
-          "src": "assets/images/projects/handovers-and-filing/10.PNG",
+          "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/10.PNG",
           "alt": "edit-user-form",
           "captions": {
             "title": "Edit user form"
