@@ -240,7 +240,7 @@
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/1.png",
           "alt": "dashboard",
-          "captions": {
+          "caption": {
             "title": "Dashboard",
             "description": "Shows asset locations and summaries"
           }
@@ -248,7 +248,7 @@
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/2.png",
           "alt": "assets-in-location",
-          "captions": {
+          "caption": {
             "title": "Assets in location",
             "description": "Shows assets and its quantity in location when location is clicked"
           }
@@ -256,133 +256,133 @@
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/3.png",
           "alt": "asset-type-management",
-          "captions": {
+          "caption": {
             "title": "Asset's type management"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/4.png",
           "alt": "asset-sub-type-management",
-          "captions": {
+          "caption": {
             "title": "Asset's sub-type management"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/5.png",
           "alt": "asset-location-management",
-          "captions": {
+          "caption": {
             "title": "Asset's location management"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/6.png",
           "alt": "asset-sub-location-management",
-          "captions": {
+          "caption": {
             "title": "Asset's sub-location management"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/7.png",
           "alt": "asset-management",
-          "captions": {
+          "caption": {
             "title": "Assets management (master data)"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.0.png",
           "alt": "asset-quantity-management",
-          "captions": {
+          "caption": {
             "title": "Asset's quantity management"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.1.png",
           "alt": "add-asset-inventory-form",
-          "captions": {
+          "caption": {
             "title": "Add asset inventory's form"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.2.png",
           "alt": "find-the-asset-form",
-          "captions": {
+          "caption": {
             "title": "Find the asset form"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.3.png",
           "alt": "when-the-asset-found",
-          "captions": {
+          "caption": {
             "title": "When the asset found"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.4.png",
           "alt": "get-asset-inventory-code-from-rfid-scan",
-          "captions": {
+          "caption": {
             "title": "Get asset's inventory codes from scanned RFIDs"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/8.5.png",
           "alt": "generate-asset-inventories-based-on-scanned-rfid",
-          "captions": {
+          "caption": {
             "title": "Generate asset inventories based on scanned RFIDs"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/9.png",
           "alt": "stock-opname",
-          "captions": {
+          "caption": {
             "title": "Stock opname"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/10.0.png",
           "alt": "manage-assets-loaning",
-          "captions": {
+          "caption": {
             "title": "Manage assets loaning"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/10.1.png",
           "alt": "assets-loaning-form",
-          "captions": {
+          "caption": {
             "title": "Assets loaning form"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/11.png",
           "alt": "asset-additions-report",
-          "captions": {
+          "caption": {
             "title": "Assets additions report"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/12.png",
           "alt": "missing-assets-report",
-          "captions": {
+          "caption": {
             "title": "Missing assets report"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/13.png",
           "alt": "assets-loaning-report",
-          "captions": {
+          "caption": {
             "title": "Assets loaning report"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/14.0.png",
           "alt": "users-management",
-          "captions": {
+          "caption": {
             "title": "Users management"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/asset-management/15.0.png",
           "alt": "roles-management",
-          "captions": {
+          "caption": {
             "title": "Roles management"
           }
         }
@@ -404,35 +404,35 @@
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/1.PNG",
           "alt": "login",
-          "captions": {
+          "caption": {
             "title": "Login page"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/2.PNG",
           "alt": "handovers-management",
-          "captions": {
+          "caption": {
             "title": "Handovers management"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/3.PNG",
           "alt": "handover-airway-bill",
-          "captions": {
+          "caption": {
             "title": "Handover airway bills (awb)"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/4.PNG",
           "alt": "handover-actions",
-          "captions": {
+          "caption": {
             "title": "Abilities to export handover list"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/5.PNG",
           "alt": "add-handover-form",
-          "captions": {
+          "caption": {
             "title": "Add handover form",
             "description": "It comes with transporter management, you can add or delete based on selected transporter"
           }
@@ -440,35 +440,35 @@
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/6.PNG",
           "alt": "add-transporter-form",
-          "captions": {
+          "caption": {
             "title": "Add transporter form"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/7.PNG",
           "alt": "files-management",
-          "captions": {
+          "caption": {
             "title": "Files management"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/8.PNG",
           "alt": "users-management",
-          "captions": {
+          "caption": {
             "title": "User management"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/9.PNG",
           "alt": "add-user-form",
-          "captions": {
+          "caption": {
             "title": "Add user form"
           }
         },
         {
           "src": "https://raw.githubusercontent.com/aldesrahim/portfolio-data/main/assets/images/projects/handovers-and-filing/10.PNG",
           "alt": "edit-user-form",
-          "captions": {
+          "caption": {
             "title": "Edit user form"
           }
         }
