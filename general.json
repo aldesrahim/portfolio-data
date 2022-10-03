@@ -1,3 +1,7 @@
 {
-    "brand": "ALDES"
+    "brand": "ALDES",
+    "title": "Ahmad Al Desrahim",
+    "meta": {
+        "description": "Ahmad Al Desrahim is a Fullstack Web Developer, who loves using Laravel and currently learning Vue. Check out this page to learn more about him."
+    }
 }
